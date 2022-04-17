@@ -529,6 +529,17 @@ header {
   align-items: center;
 
 }
+.goto1{
+  position: absolute;
+  right: 150px;
+  bottom: 70px;
+  display: flex;
+  list-style: none;
+  color: rgb(145, 145, 145);
+  text-decoration: none;
+  align-items: center;
+
+}
 .goto li{
   margin: 0 5px;
   font-size: 14px;
